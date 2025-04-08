@@ -31,8 +31,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=npnamm03&show_icons=true&theme=tokyonight" height="170" />
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=npnamm03&layout=compact&langs_count=6&hide=html)
-
+  [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=npnamm03&layout=compact&langs_count=6&hide=html" height="170" />]
 </p>
 
 ---
